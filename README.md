@@ -3,6 +3,7 @@ Interactive CLI for an multi-graph analysis with optional clustering.
 
 GCLI is an interactive command-line tool for multi-graph analysis with optional clustering.
 It supports node and edge management, cluster isolation, neighbour and path queries, and CSV-based graph import.
+<img width="946" height="668" alt="image" src="https://github.com/user-attachments/assets/20aa74fa-f396-488f-8b76-275af6e0138f" />
 
 ## Features
 * Node and Edge CRUD: Add, remove, update, and list nodes and edges.
